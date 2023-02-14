@@ -18,6 +18,10 @@
     padding: auto;
 }
 
+.text {
+    color: white;
+}
+
 .heading {
     display: flex;
 }
